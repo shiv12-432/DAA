@@ -1,3 +1,16 @@
+// Programming Assignment:
+
+// ● Implement Linear Search
+// ○ Count the number of key comparisons for various inputs and plot the
+// graph.
+// ○ For every input size n , run it with n+ 1 different keys - n successful plus 1
+// unsuccessful
+// ○ Compute the minimum, maximum and average of the number of key
+// comparisons for each input size.
+// ○ Plot the graph for each case - best, worst and average number of
+// comparisons.
+// ○ n varies from 10 to 100 in steps of 5
+
 import java.util.ArrayList;
 import java.util.List;
 
